@@ -1,0 +1,1 @@
+## Store images with less storage but the same quality!
